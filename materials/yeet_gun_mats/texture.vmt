@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "yeet_gun_mats/texture"
+	"$normalmap" "yeet_gun_mats/normal"
+}
